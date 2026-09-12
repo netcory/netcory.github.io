@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: single
 title: "PGA, PSA, PSC — 이름이 다 비슷한 GCP Private 삼형제 구분하기"
 date: 2026-09-12 21:00:00 +0900
 categories: [GCP, Networking]
 tags: [gcp, vpc, networking, pca, private-service-connect]
+author_profile: true
+toc: true
 ---
 
 PCA를 준비하면서 가장 헷갈렸던 개념 세 가지를 정리한다.
