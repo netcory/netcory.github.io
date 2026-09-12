@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Liam Choi"
   avatar           : "/assets/images/avatar_wide_400.jpg"
-  bio              : "데이터 파이프라인을 운영하고, 클라우드를 공부합니다"
+  bio              : "데이터 파이프라인을 운영하고\n클라우드를 공부합니다"
   location         : "Korea"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
