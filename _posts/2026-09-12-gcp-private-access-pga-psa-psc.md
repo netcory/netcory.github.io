@@ -153,6 +153,6 @@ PSA에 있던 전이 문제가 없다. 그래서 신규 서비스는 PSC 방향�
 
 **참고**
 
-- [Private Google Access | Google Cloud](https://cloud.google.com/vpc/docs/private-google-access)
-- [Private services access | Google Cloud](https://cloud.google.com/vpc/docs/private-services-access)
-- [Private Service Connect | Google Cloud](https://cloud.google.com/vpc/docs/private-service-connect)
+- [Private Google Access](https://cloud.google.com/vpc/docs/private-google-access)
+- [Private services access](https://cloud.google.com/vpc/docs/private-services-access)
+- [Private Service Connect](https://cloud.google.com/vpc/docs/private-service-connect)
